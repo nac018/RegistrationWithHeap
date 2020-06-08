@@ -1,13 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/16/2017
- * File: dHeap.java
- * 
- * This is a class that implements the heap structure with 
- * multiple branching factors.
- */
 package hw6;
 
 import java.util.*;
