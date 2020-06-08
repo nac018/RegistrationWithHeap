@@ -1,13 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/16/2017
- * File: Course.java
- * 
- * This is a class that gets all the course material.
- */
-
 package hw6;
 
 import java.util.*;
