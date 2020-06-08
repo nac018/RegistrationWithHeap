@@ -1,12 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/16/2017
- * File: dHeapTester.java
- * 
- * This is a tester class that tests the methods in dHeap.java.
- */
 package hw6;
 
 import static org.junit.Assert.*;
