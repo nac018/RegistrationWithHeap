@@ -1,14 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/16/2017
- * File: MyPriorityQueue.java
- * 
- * This is a class that implements a priority queue with methods in 
- * dHeap.java.
- */
-
 package hw6;
 
 public class MyPriorityQueue<T extends Comparable<? super T>> {
