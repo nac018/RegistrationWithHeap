@@ -1,14 +1,3 @@
-/*
- * Name: Nang Chen
- * Login: cs12saw
- * PID: A14205066
- * Date: 05/16/2017
- * File: Student.java
- * 
- * This is a class that gets all the course scheduling 
- * methods and conditions.
- */
-
 package hw6;
 
 import java.io.File;
